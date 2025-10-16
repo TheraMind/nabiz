@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894872777462",
+    "project_id": "kalp-d5813",
+    "storage_bucket": "kalp-d5813.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894872777462:android:b327933fbe8c9e928972d7",
+        "android_client_info": {
+          "package_name": "com.example.kalp_atisi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1W82oHhumGpl_DKQm4fk8BJPq0p3eGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
